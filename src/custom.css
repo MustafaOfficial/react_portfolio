@@ -1,0 +1,9 @@
+.taskdone {
+  background-color: green;
+  color: white;
+}
+
+.taskIncomplete {
+  background-color: red;
+  color: azure;
+}
