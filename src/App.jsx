@@ -121,6 +121,11 @@ function App() {
           );
         })}
       </ol>
+      <br />
+      <h1>Footer</h1>
+      <h3>Contact Us</h3>
+      <h3>About</h3>
+      <h3>Careers</h3>
     </>
   );
 }
